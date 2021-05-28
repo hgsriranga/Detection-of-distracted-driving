@@ -6,7 +6,7 @@ and 'yolov3_custom_final.cfg'. Finally specify the path of images, which has to 
 
 Step2 (Training) : The training can be performed online. Upload the file 'YOLOv3_Tutorial.ipynb' in Training folder onto Google collab
 
-and execute each line of code. In the end, the weights file needed after training will saved  in google drive which could be downloaded.
+and execute each line of code. In the end, the weights file needed after training will be saved  in google drive which could be downloaded.
 
 Step 3 (Labelling) : Run the software available in the folder Labelling for labelling custom dataset. The tool is simple and self explanatory.
 
